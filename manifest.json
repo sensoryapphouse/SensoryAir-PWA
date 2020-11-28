@@ -1,0 +1,36 @@
+{
+  "name": "Sensory AiR",
+  "short_name": "SensoryAiR",
+  "version": "1.0",
+  "manifest_version": 2,
+  "minimum_chrome_version": "28",
+  "description": "Sensory stimulation video",
+  "icons": [{
+    "src": "images/sensory-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/sensory-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/sensory-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/sensory-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/sensory-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "images/sensory-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
